@@ -45,7 +45,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ```
 
-$ git clone https://github.com/mansern/react-redux-boilerplate.git
+$ git clone https://github.com/mansern/react-native-redux-boilerplate.git
 $ npm install && npm start
 
 ```
